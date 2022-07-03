@@ -12,7 +12,7 @@ Let just get updated about each and every Crypto-Currency.
 
 #### Get all items
 
-```http
+```
 https://coinranking1.p.rapidapi.com/
 ```
 
@@ -25,7 +25,7 @@ https://coinranking1.p.rapidapi.com/
 
 #### API Requests
 
-```http
+```
 /coins?limit=${value},
 /coin/${coinId},
 /coin/${coinId}/history/?timeperiod=${timePeriod}
